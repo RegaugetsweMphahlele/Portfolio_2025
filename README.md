@@ -43,6 +43,6 @@ To run this website locally:
 
 Feel free to connect with me:
 
-- LinkedIn: (https://www.linkedin.com/in/RegaugetsweMphahlele/)
+- LinkedIn: (www.linkedin.com/in/regaugetswe-mphahlele-25ab90271)
 - Email: regaogetswemphahlele@gmail.com
 
